@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://prasannshimpi.com/sitemap.xml
+Host: https://prasannshimpi.com
