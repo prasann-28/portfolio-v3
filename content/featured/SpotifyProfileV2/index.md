@@ -3,7 +3,6 @@ date: '3'
 title: 'Decentralized Consensus SaaS'
 cover: './consensus.jpg'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - NextJS
   - AWS
